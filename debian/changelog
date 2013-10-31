@@ -1,3 +1,10 @@
+openmediavault-processlist (0.5.5) stable; urgency=low
+
+  * Added french, polish, ukrainian locales
+  * Fix panel error
+
+ -- OpenMediaVault Plugin Developers <plugins@omv-extras.org>  Thu, 31 Oct 2013 13:14:27 -0500
+
 openmediavault-processlist (0.5.4) stable; urgency=low
 
   * Added german locale
