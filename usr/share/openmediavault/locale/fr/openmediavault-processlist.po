@@ -1,5 +1,5 @@
-# openmediavault-processlist
-# Copyright (C) 2013
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: openmediavault-processlist\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-28 09:15-0500\n"
+"POT-Creation-Date: 2013-11-14 11:36-0600\n"
 "PO-Revision-Date: 2013-10-31 00:03+0000\n"
 "Last-Translator: SpaceBrain <spacebrain.damage@gmail.com>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/openmediavault-processlist/language/fr/)\n"
@@ -18,14 +18,14 @@ msgstr ""
 "Language: fr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-msgid "Command"
-msgstr "Commande"
-
 msgid "% CPU"
 msgstr "% CPU"
 
 msgid "% MEM"
 msgstr "% MEM"
+
+msgid "Command"
+msgstr "Commande"
 
 msgid "PID"
 msgstr "PID"

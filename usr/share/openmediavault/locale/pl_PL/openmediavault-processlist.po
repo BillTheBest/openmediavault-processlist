@@ -1,5 +1,5 @@
-# openmediavault-processlist
-# Copyright (C) 2013
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: openmediavault-processlist\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-28 09:15-0500\n"
+"POT-Creation-Date: 2013-11-14 11:36-0600\n"
 "PO-Revision-Date: 2013-10-31 17:35+0000\n"
 "Last-Translator: Cyryl Sochacki <cyrylsochacki@gmail.com>\n"
 "Language-Team: Polish (Poland) (http://www.transifex.com/projects/p/openmediavault-processlist/language/pl_PL/)\n"
@@ -18,14 +18,14 @@ msgstr ""
 "Language: pl_PL\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
-msgid "Command"
-msgstr "Polecenie"
-
 msgid "% CPU"
 msgstr "% CPU"
 
 msgid "% MEM"
 msgstr "% PAM"
+
+msgid "Command"
+msgstr "Polecenie"
 
 msgid "PID"
 msgstr "PID"
