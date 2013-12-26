@@ -1,8 +1,8 @@
 openmediavault-processlist (0.5.6) stable; urgency=low
 
-  * Added locales
+  * Add locales
 
- -- OpenMediaVault Plugin Developers <plugins@omv-extras.org>  Thu, 14 Nov 2013 11:37:27 -0500
+ -- OpenMediaVault Plugin Developers <plugins@omv-extras.org>  Thu, 26 Dec 2013 08:22:27 -0500
 
 openmediavault-processlist (0.5.5) stable; urgency=low
 
